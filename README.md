@@ -1,5 +1,9 @@
 # WhatWeb-Usage-Example
 
+![image](https://user-images.githubusercontent.com/90482037/184071885-3d3c68d3-414d-45ce-9a62-ed3ff1ed41f7.png)
+
+![image](https://user-images.githubusercontent.com/90482037/184071924-26a8e3c9-2700-4dc0-a14e-b1e248647d2a.png)
+
 
 root@kali:~# whatweb -v -a 3 192.168.0.102
 
